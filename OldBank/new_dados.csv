@@ -1,0 +1,1001 @@
+,AddressID,City,StateProvinceID
+0,1,Bothell,79
+1,2,Bothell,79
+2,3,Bothell,79
+3,4,Bothell,79
+4,5,Bothell,79
+5,6,Bothell,79
+6,7,Bothell,79
+7,8,Bothell,79
+8,9,Bothell,79
+9,10,Bothell,79
+10,11,Bothell,79
+11,12,Bothell,79
+12,13,Bothell,79
+13,14,Bothell,79
+14,15,Bothell,79
+15,16,Bothell,79
+16,17,Bothell,79
+17,18,Bothell,79
+18,19,Bothell,79
+19,20,Bothell,79
+20,21,Bothell,79
+21,22,Portland,58
+22,23,Seattle,79
+23,24,Duluth,36
+24,25,Dallas,73
+25,26,San Francisco,9
+26,27,Nevada,74
+27,28,Phoenix,6
+28,29,Memphis,72
+29,30,Orlando,15
+30,31,Ottawa,57
+31,32,Montreal,63
+32,33,Calgary,1
+33,34,Bordeaux,119
+34,35,Berlin,20
+35,36,Melbourne,77
+36,37,Cambridge,14
+37,38,Detroit,35
+38,39,Cambridge,30
+39,40,Bothell,79
+40,41,Kenmore,79
+41,42,Kenmore,79
+42,43,Kenmore,79
+43,44,Kenmore,79
+44,45,Kenmore,79
+45,46,Kenmore,79
+46,47,Kenmore,79
+47,48,Kenmore,79
+48,49,Kenmore,79
+49,50,Kenmore,79
+50,51,Snohomish,79
+51,52,Snohomish,79
+52,53,Snohomish,79
+53,54,Snohomish,79
+54,55,Snohomish,79
+55,56,Snohomish,79
+56,57,Snohomish,79
+57,58,Snohomish,79
+58,59,Snohomish,79
+59,60,Snohomish,79
+60,61,Monroe,79
+61,62,Monroe,79
+62,63,Monroe,79
+63,64,Monroe,79
+64,65,Monroe,79
+65,66,Monroe,79
+66,67,Monroe,79
+67,68,Monroe,79
+68,69,Monroe,79
+69,70,Monroe,79
+70,71,Monroe,79
+71,72,Monroe,79
+72,73,Monroe,79
+73,74,Monroe,79
+74,75,Monroe,79
+75,76,Duvall,79
+76,77,Duvall,79
+77,78,Duvall,79
+78,79,Duvall,79
+79,80,Duvall,79
+80,81,Duvall,79
+81,82,Duvall,79
+82,83,Duvall,79
+83,84,Duvall,79
+84,85,Duvall,79
+85,86,Carnation,79
+86,87,Carnation,79
+87,88,Carnation,79
+88,89,Carnation,79
+89,90,Carnation,79
+90,91,Seattle,79
+91,92,Seattle,79
+92,93,Seattle,79
+93,94,Seattle,79
+94,95,Seattle,79
+95,96,Seattle,79
+96,97,Seattle,79
+97,98,Seattle,79
+98,99,Seattle,79
+99,100,Seattle,79
+100,101,Seattle,79
+101,102,Seattle,79
+102,103,Seattle,79
+103,104,Seattle,79
+104,105,Seattle,79
+105,106,Seattle,79
+106,107,Seattle,79
+107,108,Seattle,79
+108,109,Seattle,79
+109,110,Seattle,79
+110,111,Seattle,79
+111,112,Seattle,79
+112,113,Seattle,79
+113,114,Seattle,79
+114,115,Seattle,79
+115,116,Seattle,79
+116,117,Seattle,79
+117,118,Seattle,79
+118,119,Seattle,79
+119,120,Seattle,79
+120,121,Seattle,79
+121,122,Seattle,79
+122,123,Seattle,79
+123,124,Seattle,79
+124,125,Seattle,79
+125,126,Seattle,79
+126,127,Seattle,79
+127,128,Seattle,79
+128,129,Seattle,79
+129,130,Seattle,79
+130,131,Edmonds,79
+131,132,Edmonds,79
+132,133,Edmonds,79
+133,134,Edmonds,79
+134,135,Edmonds,79
+135,136,Edmonds,79
+136,137,Edmonds,79
+137,138,Edmonds,79
+138,139,Edmonds,79
+139,140,Edmonds,79
+140,141,Edmonds,79
+141,142,Edmonds,79
+142,143,Edmonds,79
+143,144,Edmonds,79
+144,145,Edmonds,79
+145,146,Edmonds,79
+146,147,Edmonds,79
+147,148,Edmonds,79
+148,149,Edmonds,79
+149,150,Edmonds,79
+150,151,Edmonds,79
+151,152,Edmonds,79
+152,153,Edmonds,79
+153,154,Edmonds,79
+154,155,Edmonds,79
+155,156,Bellevue,79
+156,157,Bellevue,79
+157,158,Bellevue,79
+158,159,Bellevue,79
+159,160,Bellevue,79
+160,161,Bellevue,79
+161,162,Bellevue,79
+162,163,Bellevue,79
+163,164,Bellevue,79
+164,165,Bellevue,79
+165,166,Bellevue,79
+166,167,Bellevue,79
+167,168,Bellevue,79
+168,169,Bellevue,79
+169,170,Bellevue,79
+170,171,Bellevue,79
+171,172,Bellevue,79
+172,173,Bellevue,79
+173,174,Bellevue,79
+174,175,Bellevue,79
+175,176,Bellevue,79
+176,177,Bellevue,79
+177,178,Bellevue,79
+178,179,Bellevue,79
+179,180,Bellevue,79
+180,181,Bellevue,79
+181,182,Bellevue,79
+182,183,Bellevue,79
+183,184,Bellevue,79
+184,185,Bellevue,79
+185,186,Bellevue,79
+186,187,Bellevue,79
+187,188,Bellevue,79
+188,189,Bellevue,79
+189,190,Bellevue,79
+190,191,Sammamish,79
+191,192,Sammamish,79
+192,193,Sammamish,79
+193,194,Sammamish,79
+194,195,Sammamish,79
+195,196,Sammamish,79
+196,197,Sammamish,79
+197,198,Sammamish,79
+198,199,Sammamish,79
+199,200,Sammamish,79
+200,201,Sammamish,79
+201,202,Sammamish,79
+202,203,Sammamish,79
+203,204,Sammamish,79
+204,205,Sammamish,79
+205,206,Redmond,79
+206,207,Redmond,79
+207,208,Redmond,79
+208,209,Redmond,79
+209,210,Redmond,79
+210,211,Redmond,79
+211,212,Redmond,79
+212,213,Redmond,79
+213,214,Redmond,79
+214,215,Redmond,79
+215,216,Redmond,79
+216,217,Redmond,79
+217,218,Redmond,79
+218,219,Redmond,79
+219,220,Redmond,79
+220,221,Redmond,79
+221,222,Redmond,79
+222,223,Redmond,79
+223,224,Redmond,79
+224,225,Redmond,79
+225,226,Redmond,79
+226,227,Redmond,79
+227,228,Everett,79
+228,229,Everett,79
+229,230,Everett,79
+230,231,Everett,79
+231,232,Everett,79
+232,233,Everett,79
+233,234,Everett,79
+234,235,Everett,79
+235,236,Everett,79
+236,237,Everett,79
+237,238,Everett,79
+238,239,Everett,79
+239,240,Everett,79
+240,241,Everett,79
+241,242,Everett,79
+242,243,Everett,79
+243,244,Everett,79
+244,245,Everett,79
+245,246,Everett,79
+246,247,Everett,79
+247,248,Newport Hills,79
+248,249,Newport Hills,79
+249,250,Newport Hills,79
+250,251,Newport Hills,79
+251,252,Newport Hills,79
+252,253,Newport Hills,79
+253,254,Newport Hills,79
+254,255,Newport Hills,79
+255,256,Gold Bar,79
+256,257,Gold Bar,79
+257,258,Gold Bar,79
+258,259,Gold Bar,79
+259,260,Gold Bar,79
+260,261,Index,79
+261,262,Index,79
+262,263,Index,79
+263,264,Index,79
+264,265,Index,79
+265,266,Issaquah,79
+266,267,Issaquah,79
+267,268,Issaquah,79
+268,269,Issaquah,79
+269,270,Issaquah,79
+270,271,Issaquah,79
+271,272,Issaquah,79
+272,273,Issaquah,79
+273,274,Issaquah,79
+274,275,Issaquah,79
+275,276,Issaquah,79
+276,277,Issaquah,79
+277,278,Issaquah,79
+278,279,Issaquah,79
+279,280,Issaquah,79
+280,281,Renton,79
+281,282,Renton,79
+282,283,Renton,79
+283,284,Renton,79
+284,285,Renton,79
+285,286,Renton,79
+286,287,Renton,79
+287,288,Renton,79
+288,289,Renton,79
+289,290,Renton,79
+290,291,Renton,79
+291,292,Renton,79
+292,293,Renton,79
+293,294,Renton,79
+294,295,Renton,79
+295,296,Renton,79
+296,297,Renton,79
+297,298,Renton,79
+298,299,Renton,79
+299,300,Renton,79
+300,301,Santa Cruz,9
+301,302,Lynnwood,79
+302,303,Altadena,9
+303,304,West Covina,9
+304,305,Torrance,9
+305,306,Burbank,9
+306,307,Lebanon,58
+307,308,Port Orchard,79
+308,309,Bellingham,79
+309,310,West Covina,23
+310,311,Mill Valley,40
+311,312,Lake Oswego,58
+312,313,Downey,72
+313,314,West Covina,9
+314,315,Corvallis,58
+315,316,Everett,40
+316,317,Los Angeles,9
+317,318,Missoula,40
+318,319,Phoenix,6
+319,320,Daly City,9
+320,321,Newport Beach,9
+321,322,Portland,58
+322,323,Los Angeles,9
+323,324,Lynnwood,79
+324,325,Dallas,73
+325,326,Atlanta,17
+326,327,Torrance,9
+327,328,Long Beach,9
+328,329,Chicago,24
+329,330,Berkeley,9
+330,331,Lakewood,37
+331,332,Walla Walla,79
+332,333,Concord,9
+333,334,Anacortes,79
+334,335,Tacoma,79
+335,336,Santa Cruz,9
+336,337,Burlingame,9
+337,338,Boise,23
+338,339,La Mesa,48
+339,340,Bellevue,79
+340,341,W. Linn,52
+341,342,Altadena,9
+342,343,Bremerton,79
+343,344,Denver,10
+344,345,Lemon Grove,6
+345,346,New York,54
+346,347,Oakland,9
+347,348,Richmond,9
+348,349,Lemon Grove,6
+349,350,Daly City,9
+350,351,Mill Valley,44
+351,352,Burlingame,9
+352,353,Novato,82
+353,354,Concord,9
+354,355,W. Linn,58
+355,356,Chula Vista,9
+356,357,Salt Lake City,74
+357,358,West Covina,9
+358,359,Salt Lake City,74
+359,360,West Covina,9
+360,361,Long Beach,9
+361,362,Glendale,9
+362,363,Palo Alto,9
+363,364,Salem,58
+364,365,Imperial Beach,9
+365,366,Albany,58
+366,367,San Francisco,9
+367,368,Spring Valley,9
+368,369,Lebanon,58
+369,370,Burlingame,9
+370,371,Woodburn,58
+371,372,Bremerton,79
+372,373,Lebanon,58
+373,374,Detroit,35
+374,375,Everett,79
+375,376,Albany,54
+376,377,Everett,79
+377,378,Sedro Woolley,79
+378,379,Beaverton,58
+379,380,Anacortes,79
+380,381,Boston,30
+381,382,Coronado,9
+382,383,Burbank,9
+383,384,Kirkland,79
+384,385,Salem,58
+385,386,Ballard,79
+386,387,Coronado,9
+387,388,Anacortes,79
+388,389,Burien,79
+389,390,Palo Alto,9
+390,391,Burien,79
+391,392,Lynnwood,79
+392,393,Lakewood,9
+393,394,Spokane,79
+394,395,St. Louis,37
+395,396,Burien,79
+396,397,Berkeley,9
+397,398,Spokane,79
+398,399,Issaquah,79
+399,400,Glendale,9
+400,401,Salem,58
+401,402,Olympia,79
+402,403,Houston,73
+403,404,Philadelphia,59
+404,405,Lavender Bay,50
+405,406,Lavender Bay,50
+406,407,Cloverdale,66
+407,408,Lavender Bay,50
+408,409,Lane Cove,50
+409,410,Alexandria,50
+410,411,North Ryde,50
+411,412,Lavender Bay,50
+412,413,North Ryde,50
+413,414,Hawthorne,64
+414,415,North Sydney,50
+415,416,South Melbourne,77
+416,417,Lavender Bay,50
+417,418,Seaford,77
+418,419,Melbourne,77
+419,420,North Ryde,50
+420,421,North Sydney,50
+421,422,Matraville,50
+422,423,Matraville,50
+423,424,Findon,66
+424,425,East Brisbane,64
+425,426,Milsons Point,50
+426,427,North Sydney,50
+427,428,Silverwater,50
+428,429,Springwood,50
+429,430,St. Leonards,50
+430,431,Rhodes,50
+431,432,Malabar,50
+432,433,Melbourne,77
+433,434,Rhodes,50
+434,435,Darlinghurst,50
+435,436,Rhodes,50
+436,437,Melbourne,77
+437,438,Matraville,50
+438,439,Rhodes,50
+439,440,Perth,66
+440,441,Alexandria,50
+441,442,Melbourne,77
+442,443,Newcastle,50
+443,444,Sydney,50
+444,445,Burnaby,7
+445,446,Toronto,57
+446,447,Toronto,57
+447,448,Toronto,57
+448,449,Chalk Riber,57
+449,450,Quebec,63
+450,451,Calgary,1
+451,452,Toronto,57
+452,453,Montreal,63
+453,454,Toronto,57
+454,455,Weston,57
+455,456,Burnaby,7
+456,457,Vancouver,7
+457,458,Ottawa,57
+458,459,Etobicoke,57
+459,460,Markham,57
+460,461,Toronto,57
+461,462,Toronto,57
+462,463,Toronto,57
+463,464,Pnot-Rouge,63
+464,465,Montreal,63
+465,466,Calgary,1
+466,467,Calgary,1
+467,468,Vancouver,7
+468,469,Vancouver,7
+469,470,Toronto,57
+470,471,Montreal,63
+471,472,Richmond,7
+472,473,Vancouver,7
+473,474,Surrey,7
+474,475,Calgary,1
+475,476,Toronto,57
+476,477,Toronto,57
+477,478,Toronto,57
+478,479,Scarborough,57
+479,480,Toronto,57
+480,481,Hull,63
+481,482,Toronto,57
+482,483,Ottawa,57
+483,484,Montreal,63
+484,485,Brossard,63
+485,486,Montreal,63
+486,487,Calgary,1
+487,488,Burnaby,7
+488,489,Toronto,57
+489,490,Barrie,57
+490,491,Montreal,63
+491,492,Sainte-Foy,63
+492,493,Winnipeg,31
+493,494,Saint John,41
+494,495,Ottawa,57
+495,496,Mississauga,57
+496,497,Burnaby,7
+497,498,Victoria,7
+498,499,Waterloo,57
+499,500,Mississauga,57
+500,501,Montreal,63
+501,502,Edmonton,1
+502,503,Winnipeg,31
+503,504,Calgary,1
+504,505,Calgary,1
+505,506,Surrey,7
+506,507,Kingston,57
+507,508,Vancouver,7
+508,509,Surrey,7
+509,510,Waterloo,57
+510,511,Outremont,63
+511,512,Montreal,63
+512,513,Richmond,7
+513,514,Richmond Hill,57
+514,515,Etobicoke,57
+515,516,Brampton,57
+516,517,Toronto,57
+517,518,Richmond Hill,57
+518,519,Calgary,1
+519,520,Brossard,63
+520,521,Mississauga,57
+521,522,Richmond,7
+522,523,Richmond,7
+523,524,Ville De'anjou,63
+524,525,Mississauga,57
+525,526,Edmonton,1
+526,527,Richmond,7
+527,528,Mississauga,57
+528,529,Richmond,7
+529,530,North York,57
+530,531,Kingston,57
+531,532,Ottawa,57
+532,533,Kanata,57
+533,534,Sillery,63
+534,535,Mississauga,57
+535,536,Quebec,63
+536,537,Toronto,57
+537,538,Toronto,57
+538,539,Toronto,57
+539,540,Nepean,57
+540,541,Montreal,63
+541,542,Montreal,63
+542,543,Ottawa,57
+543,544,Burnaby,7
+544,545,Vancouver,57
+545,546,Calgary,1
+546,547,Toronto,57
+547,548,Toronto,57
+548,549,Toronto,57
+549,550,Toronto,57
+550,551,Aurora,57
+551,552,Dorval,63
+552,553,Calgary,1
+553,554,Ottawa,57
+554,555,Toronto,57
+555,556,Montreal,63
+556,557,Montreal,63
+557,558,Calgary,1
+558,559,Irving,73
+559,560,Austin,73
+560,561,Irving,73
+561,562,North Sioux City,68
+562,563,Edina,36
+563,564,Laredo,73
+564,565,West Chicago,24
+565,566,Chicago,24
+566,567,Garland,73
+567,568,Wood Dale,24
+568,569,Round Rock,73
+569,570,Fort Worth,73
+570,571,Elgin,24
+571,572,Dallas,73
+572,573,Wood Dale,24
+573,574,Dallas,73
+574,575,Chicago,24
+575,576,Carol Stream,24
+576,577,Dallas,73
+577,578,Garland,73
+578,579,Chicago,24
+579,580,Carrollton,73
+580,581,Dallas,73
+581,582,Plano,73
+582,583,Chicago,24
+583,584,Saint Louis,37
+584,585,Chicago,24
+585,586,Jefferson City,37
+586,587,Houston,73
+587,588,Dallas,73
+588,589,Round Rock,73
+589,590,Duluth,36
+590,591,Baytown,73
+591,592,Houston,73
+592,593,Houston,73
+593,594,Peoria,24
+594,595,Saint Louis,37
+595,596,San Antonio,73
+596,597,Humble,73
+597,598,Moline,24
+598,599,Saint Ann,37
+599,600,Ferguson,37
+600,601,Saint Louis,37
+601,602,San Antonio,73
+602,603,Killeen,73
+603,604,Joliet,24
+604,605,San Antonio,73
+605,606,Racine,80
+606,607,Corpus Christi,73
+607,608,College Station,73
+608,609,Milwaukee,80
+609,610,Denby,68
+610,611,San Antonio,73
+611,612,Norridge,24
+612,613,Cedar Park,73
+613,614,Mesquite,73
+614,615,Stafford,73
+615,616,Hillsboro,73
+616,617,Johnson Creek,80
+617,618,Kansas City,37
+618,619,Sugar Land,73
+619,620,Woodbury,36
+620,621,Branch,36
+621,622,San Antonio,73
+622,623,Houston,73
+623,624,Branson,37
+624,625,Mosinee,80
+625,626,La Marque,73
+626,627,Tuscola,24
+627,628,Minneapolis,36
+628,629,Saint Louis,37
+629,630,Arlington,73
+630,631,Odessa,37
+631,632,San Antonio,73
+632,633,Medford,36
+633,634,Kansas City,37
+634,635,London,14
+635,636,Warrington,14
+636,637,Gloucestershire,14
+637,638,London,14
+638,639,Milton Keynes,14
+639,640,Wokingham,14
+640,641,W. York,14
+641,642,Liverpool,14
+642,643,Oxon,14
+643,644,W. York,14
+644,645,Milton Keynes,14
+645,646,Lancaster,14
+646,647,Basingstoke Hants,14
+647,648,London,14
+648,649,High Wycombe,14
+649,650,Reading,14
+650,651,Abingdon,14
+651,652,Milton Keynes,14
+652,653,West Sussex,14
+653,654,York,14
+654,655,Berkshire,14
+655,656,York,14
+656,657,Birmingham,14
+657,658,Bracknell,14
+658,659,Woolston,14
+659,660,Maidenhead,14
+660,661,Berks,14
+661,662,London,14
+662,663,London,14
+663,664,London,14
+664,665,London,14
+665,666,London,14
+666,667,London,14
+667,668,Oxford,14
+668,669,Cambridge,14
+669,670,London,14
+670,671,London,14
+671,672,London,14
+672,673,London,14
+673,674,London,14
+674,675,Les Ulis,177
+675,676,Paris,161
+676,677,Roncq,145
+677,678,Verrieres Le Buisson,177
+678,679,Courbevoie,178
+679,680,Pantin,179
+680,681,Saint Ouen,127
+681,682,Colombes,178
+682,683,Paris,161
+683,684,Orleans,131
+684,685,Colomiers,117
+685,686,Lieusaint,163
+686,687,Colombes,178
+687,688,Orly,180
+688,689,Paris,161
+689,690,Roissy en Brie,163
+690,691,Paris,161
+691,692,Bobigny,179
+692,693,Paris La Defense,178
+693,694,Paris,161
+694,695,Les Ulis,177
+695,696,Paris,161
+696,697,Aujan Mournede,118
+697,698,Paris,161
+698,699,Pantin,179
+699,700,Les Ulis,177
+700,701,Saint Ouen,127
+701,702,Orleans,131
+702,703,Les Ulis,177
+703,704,Cergy,181
+704,705,Paris,161
+705,706,Boulogne-sur-Mer,148
+706,707,Paris,161
+707,708,Paris,161
+708,709,Morangis,177
+709,710,Paris,161
+710,711,Paris,161
+711,712,Croix,145
+712,713,Sèvres,178
+713,714,Suresnes,178
+714,715,Frankfurt am Main,70
+715,716,Stuttgart,70
+716,717,Berlin,85
+717,718,Muehlheim,20
+718,719,Essen,20
+719,720,Duesseldorf,19
+720,721,Berlin,19
+721,722,Bonn,20
+722,723,Bonn,53
+723,724,Münster,70
+724,725,München,20
+725,726,München,19
+726,727,Bad Soden,19
+727,728,Sulzbach Taunus,70
+728,729,Grevenbroich,8
+729,730,Berlin,53
+730,731,Offenbach,70
+731,732,Frankfurt am Main,20
+732,733,Stuttgart,70
+733,734,Hamburg,19
+734,735,Salzgitter,19
+735,736,Hamburg,20
+736,737,Kiel,70
+737,738,Hannover,53
+738,739,Berlin,20
+739,740,Saarbrücken,70
+740,741,Eilenburg,85
+741,742,Dresden,19
+742,743,Berlin,19
+743,744,Berlin,70
+744,745,Paderborn,20
+745,746,Braunschweig,53
+746,747,Poing,70
+747,748,Leipzig,53
+748,749,Augsburg,8
+749,750,Frankfurt,8
+750,751,Ascheim,20
+751,752,Augsburg,20
+752,753,Sulzbach Taunus,70
+753,754,München,53
+754,755,Newport News,75
+755,756,Zeeland,35
+756,757,West Kingston,65
+757,758,South Bend,25
+758,759,Norwood,30
+759,760,Melville,54
+760,761,Farmington,11
+761,762,Nashua,46
+762,763,Oberlin,55
+763,764,Chantilly,75
+764,765,Randolph,30
+765,766,Kittery,33
+766,767,Stamford,11
+767,768,Endicott,54
+768,769,East Haven,11
+769,770,New York,54
+770,771,Fort Wayne,25
+771,772,Warwick,65
+772,773,Mentor,55
+773,774,Pontiac,35
+774,775,Novi,35
+775,776,Southfield,35
+776,777,Westport,11
+777,778,Waterbury,11
+778,779,New Hartford,54
+779,780,Indianapolis,25
+780,781,Hamden,11
+781,782,Milford,11
+782,783,Euclid,55
+783,784,North Randall,55
+784,785,Madison Heights,35
+785,786,Westland,35
+786,787,Michigan City,25
+787,788,Southgate,35
+788,789,Detroit,35
+789,790,De Witt,54
+790,791,Clay,54
+791,792,Indianapolis,25
+792,793,Cincinnati,55
+793,794,Saginaw,35
+794,795,Saginaw,35
+795,796,Springdale,55
+796,797,Midland,35
+797,798,New Castle,25
+798,799,Central Valley,54
+799,800,Daleville,25
+800,801,Holland,35
+801,802,Indianapolis,25
+802,803,Virginia Beach,75
+803,804,Saugus,30
+804,805,Falls Church,75
+805,806,Monroe,35
+806,807,Leesburg,75
+807,808,Braintree,30
+808,809,Hooksett,46
+809,810,Redford,35
+810,811,Woonsocket,65
+811,812,Cheektowaga,54
+812,813,Lake George,54
+813,814,Burbank,55
+814,815,Wrentham,30
+815,816,Tilton,46
+816,817,Cincinnati,55
+817,818,Mansfield,55
+818,819,Holland,55
+819,820,Nashua,46
+820,821,Plaistow,46
+821,822,Ithaca,54
+822,823,Logansport,25
+823,824,Kittery,33
+824,825,Port Huron,35
+825,826,Howell,35
+826,827,Columbus,55
+827,828,Valley Stream,54
+828,829,Milford,11
+829,830,Heath,55
+830,831,New Haven,11
+831,832,Seattle,79
+832,833,Renton,79
+833,834,Bothell,79
+834,835,Kent,79
+835,836,Puyallup,79
+836,837,Billings,40
+837,838,Medford,58
+838,839,Portland,58
+839,840,North Bend,79
+840,841,Portland,58
+841,842,Beaverton,58
+842,843,Woodinville,79
+843,844,Issaquah,79
+844,845,Idaho Falls,23
+845,846,Redmond,79
+846,847,Wenatchee,79
+847,848,Redmond,79
+848,849,Seattle,79
+849,850,Klamath Falls,58
+850,851,Troutdale,58
+851,852,Clackamas,58
+852,853,Milwaukie,58
+853,854,Renton,79
+854,855,Port Orchard,79
+855,856,Shelton,79
+856,857,Longview,79
+857,858,Lynnwood,79
+858,859,Seattle,79
+859,860,Puyallup,79
+860,861,Bellevue,79
+861,862,Washougal,79
+862,863,Tacoma,79
+863,864,Renton,79
+864,865,Bellingham,79
+865,866,Puyallup,79
+866,867,Everett,79
+867,868,Bothell,79
+868,869,Kent,79
+869,870,Ellensburg,79
+870,871,Everett,79
+871,872,Sequim,79
+872,873,Spokane,79
+873,874,Portland,58
+874,875,Cheyenne,82
+875,876,Seattle,79
+876,877,Sandpoint,23
+877,878,Spokane,79
+878,879,Union Gap,79
+879,880,Lacey,79
+880,881,Missoula,40
+881,882,Medford,58
+882,883,Albany,58
+883,884,Chehalis,79
+884,885,Kennewick,79
+885,886,Salem,58
+886,887,Lewiston,23
+887,888,Kelso,79
+888,889,Casper,82
+889,890,Great Falls,40
+890,891,Kirkland,79
+891,892,Cheyenne,82
+892,893,Rock Springs,82
+893,894,Tacoma,79
+894,895,Puyallup,79
+895,896,Albany,58
+896,897,Everett,79
+897,898,Clackamas,58
+898,899,Spokane,79
+899,900,Cheyenne,82
+900,901,Bellingham,79
+901,902,Springfield,58
+902,903,Beaverton,58
+903,904,Kelso,79
+904,905,Federal Way,79
+905,906,Tigard,58
+906,907,Hillsboro,58
+907,908,Miami,15
+908,909,Millington,72
+909,910,Miami,15
+910,911,Millington,72
+911,912,Huntsville,3
+912,913,La Vergne,72
+913,914,Nashville,72
+914,915,Greensboro,42
+915,916,Sunrise,15
+916,917,Miami,15
+917,918,Miami,15
+918,919,Sarasota,15
+919,920,Atlanta,17
+920,921,Suwanee,17
+921,922,Millington,72
+922,923,Memphis,72
+923,924,Clarkston,17
+924,925,Clearwater,15
+925,926,Memphis,72
+926,927,Mcdonough,17
+927,928,Miami,15
+928,929,Mobile,3
+929,930,Winston-Salem,42
+930,931,Rocky Mount,42
+931,932,Florence,3
+932,933,Campbellsville,27
+933,934,Miami,15
+934,935,Kendall,15
+935,936,Miami,15
+936,937,Altamonte Springs,15
+937,938,Orlando,15
+938,939,Memphis,72
+939,940,Birmingham,3
+940,941,Saint Matthews,27
+941,942,Tupelo,39
+942,943,Merritt Island,15
+943,944,Montgomery,3
+944,945,Hixson,72
+945,946,Nashville,72
+946,947,Mcdonough,17
+947,948,Decatur,17
+948,949,Florence,27
+949,950,Myrtle Beach,67
+950,951,Huntsville,3
+951,952,Crossville,72
+952,953,Kingsport,72
+953,954,Gaffney,67
+954,955,Biloxi,39
+955,956,Orlando,15
+956,957,Somerset,27
+957,958,Destin,15
+958,959,La Grange,17
+959,960,Columbus,17
+960,961,Tampa,15
+961,962,Miami,15
+962,963,Lakeland,15
+963,964,Nashville,72
+964,965,Newport,27
+965,966,Smithfield,42
+966,967,Byron,17
+967,968,Orlando,15
+968,969,Vero Beach,15
+969,970,Bluffton,67
+970,971,Clearwater,15
+971,972,Gulfport,39
+972,973,Pigeon Forge,72
+973,974,Savannah,17
+974,975,Memphis,72
+975,976,Maryville,72
+976,977,Miami,15
+977,978,Bradenton,15
+978,979,Hollywood,15
+979,980,Raleigh,42
+980,981,Miami,15
+981,982,Augusta,17
+982,983,Marietta,17
+983,984,North Miami Beach,15
+984,985,Austell,17
+985,986,Kannapolis,42
+986,987,Charlotte,42
+987,988,Fremont,9
+988,989,Camarillo,9
+989,990,Salt Lake City,74
+990,991,San Ramon,9
+991,992,Union City,9
+992,993,El Segundo,9
+993,994,Milpitas,9
+994,995,Newport Beach,9
+995,996,Salt Lake City,74
+996,997,Visalia,9
+997,998,Hayward,9
+998,999,Fullerton,9
+999,1000,San Diego,9
